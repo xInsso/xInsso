@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi👋! I'm xInso, a minecraft developer.
 
+- 🌱 I’m currently learning Java
 <!--
 **xInsso/xInsso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
