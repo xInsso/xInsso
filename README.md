@@ -39,12 +39,5 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
-<p align="center">
-	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=sachinverma53121&show_icons=true alt=sachinverma53121 /> 
-</p>
-
-<p align="center">
-<a href=https://twitter.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="xInso14" height="40" width="40" /></a>
-</p>
 
 
