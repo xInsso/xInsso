@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm xInso</h1>
 </p>
 
+<a href="https://wakatime.com/@e607ae5c-b74f-43e5-a6c5-3093999b994c"><img src="https://wakatime.com/badge/user/e607ae5c-b74f-43e5-a6c5-3093999b994c.svg" alt="Total time coded since Dec 19 2024" /></a>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
