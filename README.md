@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xInsso/xInsso/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/xInsso/xInsso/output/snake.yml" alt="Snake animation" />
 <a href="https://wakatime.com/@e607ae5c-b74f-43e5-a6c5-3093999b994c"><img src="https://wakatime.com/badge/user/e607ae5c-b74f-43e5-a6c5-3093999b994c.svg" alt="Total time coded since Dec 19 2024" /></a>
 
 ###
