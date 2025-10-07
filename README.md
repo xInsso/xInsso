@@ -14,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -34,7 +34,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xInsso/xInsso/output/snake.yml" alt="Snake animation" />
 <a href="https://wakatime.com/@e607ae5c-b74f-43e5-a6c5-3093999b994c"><img src="https://wakatime.com/badge/user/e607ae5c-b74f-43e5-a6c5-3093999b994c.svg" alt="Total time coded since Dec 19 2024" /></a>
 
 ###
